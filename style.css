@@ -1,0 +1,43 @@
+html {
+    font-family: sans-serif;
+}
+
+header{
+
+    text-align: center;
+    padding: auto;
+    height: 150px; 
+    background-color: purple;
+    padding-top: 80px;
+    
+}
+
+img {
+
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+h2{
+    color: white;
+    padding-top: 10px;
+}
+
+#main-div{
+    margin: auto;
+    width: 50%;
+}
+
+footer{
+    background-color: purple;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+
+span{
+    color: white;
+    padding-top: 20px;
+}
